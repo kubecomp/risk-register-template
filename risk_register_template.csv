@@ -1,0 +1,4 @@
+Risk ID,Title,Owner,Inherent Likelihood,Inherent Impact,Controls,Residual Likelihood,Residual Impact,Treatment,Target Date,Status
+R-001,Unauthorized access to prod,Security,4,5,"SSO, MFA, IAM reviews",2,3,Mitigate,2025-12-31,Open
+R-002,Vendor data breach,TPRM,3,5,"TPRM, DPAs, SOC 2 reviews",2,3,Mitigate,2025-10-15,In Progress
+R-003,Unpatched critical vulnerabilities,Engineering,4,4,"Scanning, SLA tracking",2,2,Mitigate,2025-09-30,Open
